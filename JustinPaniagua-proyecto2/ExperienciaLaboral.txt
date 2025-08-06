@@ -1,0 +1,4 @@
+ExperienciaLaboral{id=551, nombreEmpresa=FilasABC, puesto=Supervisor, fechaInicio=Thu Jul 14 14:13:46 CST 2022, fechaFin=Fri Jul 19 14:13:49 CST 2024, descripcion=supervisor de ventas}
+ExperienciaLaboral{id=12541, nombreEmpresa=BN, puesto=ventas de seguros, fechaInicio=Fri Jul 21 00:00:00 CST 2017, fechaFin=Sat Jul 20 14:17:29 CST 2024, descripcion=ventas de seguros para el banco nacional}
+ExperienciaLaboral{id=515, nombreEmpresa=2EMPRESA.COM, puesto=Desarrollador junior de web, fechaInicio=Fri Jul 10 14:20:00 CST 2020, fechaFin=Fri Jul 19 00:00:00 CST 2024, descripcion=Desarrollador junior en programas web}
+ExperienciaLaboral{id=1, nombreEmpresa=fsafa, puesto=fasfsaf, fechaInicio=Fri Jul 19 00:00:00 CST 2024, fechaFin=Fri Jul 19 14:24:20 CST 2024, descripcion=fsffas}

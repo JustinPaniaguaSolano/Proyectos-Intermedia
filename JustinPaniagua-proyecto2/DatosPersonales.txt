@@ -1,0 +1,4 @@
+DatosPersonales{id=100, cedula=10051251, nombre=Alfonso, direccion=Heredia, correo=alfonso10@gmail.com, fechaNacimiento=Tue Jul 24 14:12:41 CST 1990, nacionalidad=NIcaragua, estadoCivil=Casado, objetivoProfeccional=Gerente }
+DatosPersonales{id=551, cedula=5112512, nombre=Juan Carlos Rojas, direccion=Azul, correo=Rojas123@gmail.com, fechaNacimiento=Wed Jul 20 14:16:18 CST 2005, nacionalidad=Costaricence, estadoCivil=Viudo, objetivoProfeccional=gerente de ventas}
+DatosPersonales{id=1001, cedula=30553632, nombre=JustinPaniaguaSolano, direccion=90 noroeste, correo=jpaniaguasolano4@gmail.com, fechaNacimiento=Fri Jul 02 14:19:07 CST 2004, nacionalidad=Costarricence, estadoCivil=Soltero, objetivoProfeccional=Desarrollador de sistemas}
+DatosPersonales{id=1, cedula=2, nombre=414, direccion=fasff, correo=fasf, fechaNacimiento=Fri Jul 19 14:24:10 CST 2024, nacionalidad=fsaf, estadoCivil=fasf, objetivoProfeccional=fsaf}

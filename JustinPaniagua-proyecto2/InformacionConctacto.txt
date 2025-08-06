@@ -1,0 +1,4 @@
+InformacionContacto{id=1515, telefono=85812515215, dirrecionCorreo=90 metros del EBAIS, pais=CostaRica, ciudad=Heredia, codigoPostal=1241241}
+InformacionContacto{id=144, telefono=81124151245, dirrecionCorreo=90 metros al sur de la curacao, pais=CostaRica, ciudad=Escazu, codigoPostal=141412}
+InformacionContacto{id=1, telefono=86127978, dirrecionCorreo=turrialba, pais=CostaRica, ciudad=Cartago, codigoPostal=4112}
+InformacionContacto{id=1, telefono=4124141, dirrecionCorreo=f4fafsf, pais=fsaf, ciudad=fasfa, codigoPostal=412414}

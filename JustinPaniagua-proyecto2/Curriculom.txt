@@ -1,0 +1,55 @@
+	CURRICULOM VITAE
+	DATOS PERSONALES
+id=100
+cedula=10051251
+nombre=Alfonso
+direccion=Heredia
+correo=alfonso10@gmail.com
+fechaNacimiento=Tue Jul 24 14:12:41 CST 1990
+nacionalidad=NIcaragua
+estadoCivil=Casado
+objetivoProfeccional=Gerente 
+
+	Experiencia Laboral
+id=551
+nombreEmpresa=FilasABC
+puesto=Supervisor
+fechaInicio=Thu Jul 14 14:13:46 CST 2022
+fechaFin=Fri Jul 19 14:13:49 CST 2024
+descripcion=supervisor de ventas
+
+	Informacion de Contacto
+id=1515
+telefono=85812515215
+dirrecionCorreo=90 metros del EBAIS
+pais=CostaRica
+ciudad=Heredia
+codigoPostal=1241241
+
+	CURRICULOM VITAE
+	DATOS PERSONALES
+id=1001
+cedula=30553632
+nombre=JustinPaniaguaSolano
+direccion=90 noroeste
+correo=jpaniaguasolano4@gmail.com
+fechaNacimiento=Fri Jul 02 14:19:07 CST 2004
+nacionalidad=Costarricence
+estadoCivil=Soltero
+objetivoProfeccional=Desarrollador de sistemas
+
+	Experiencia Laboral
+id=515
+nombreEmpresa=2EMPRESA.COM
+puesto=Desarrollador junior de web
+fechaInicio=Fri Jul 10 14:20:00 CST 2020
+fechaFin=Fri Jul 19 00:00:00 CST 2024
+descripcion=Desarrollador junior en programas web
+
+	Informacion de Contacto
+id=1
+telefono=86127978
+dirrecionCorreo=turrialba
+pais=CostaRica
+ciudad=Cartago
+codigoPostal=4112
